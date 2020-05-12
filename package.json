@@ -19,8 +19,9 @@
   },
   "dependencies": {
     "@nearform/bubbleprof": "^3.0.0",
+    "@nearform/clinic-common": "^3.1.0",
     "@nearform/doctor": "^4.1.2",
-    "@nearform/flame": "^5.0.0",
+    "@nearform/flame": "nearform/node-clinic-flame#master",
     "any-shell-escape": "^0.1.1",
     "async": "^3.0.1",
     "autocannon": "^4.0.0",
@@ -34,6 +35,7 @@
     "insight": "^0.10.1",
     "jsonwebtoken": "^8.3.0",
     "minimist": "^1.2.0",
+    "node": "^14.2.0",
     "open": "^7.0.0",
     "ora": "^4.0.0",
     "pump": "^3.0.0",
